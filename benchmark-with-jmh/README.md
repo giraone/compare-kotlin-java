@@ -19,7 +19,7 @@ Benchmark                                                            Mode  Cnt  
 BalancesBenchmark.java_imperative_originalCode_withKnownIbans       thrpt    5  14593703,151 ± 225239,497  ops/s
 BalancesBenchmark.java_functional_improvedCode                      thrpt    5     27540,831 ±    818,728  ops/s
 BalancesBenchmark.java_imperative_originalCode                      thrpt    5     25555,489 ±    929,556  ops/s
-BalancesBenchmark.kotlin_sumLatestTotalsByIbanReactiveImprovedCode  thrpt    5     24601,712 ±    665,140  ops/s
+BalancesBenchmark.kotlin_functional                                 thrpt    5     24601,712 ±    665,140  ops/s
 BalancesBenchmark.java_functional_originalCode                      thrpt    5     20463,340 ±    555,912  ops/s
 ```
 

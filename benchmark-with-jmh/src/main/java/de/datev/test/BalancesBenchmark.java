@@ -83,7 +83,7 @@ public class BalancesBenchmark {
     }
 
     @Benchmark
-    public void kotlin_sumLatestTotalsByIbanReactiveImprovedCode() {
+    public void kotlin_functional() {
 
         balancesServiceKotlin.sumLatestTotalsByIban(testBedKotlin.get("large"));
     }
