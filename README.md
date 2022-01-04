@@ -17,6 +17,7 @@ cd ..
 cd balances-kotlin
 mvn clean install
 cd ..
+cd benchmark-woth-jmh
 mvn clean package
 java -jar target/benchmarks.jar
 ```
